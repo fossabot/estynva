@@ -1,3 +1,5 @@
+[![Cole](https://cldup.com/dTxpPi9lDf.thumb.png)]
+
 # Hi there, my name is Cole/webdelis! 👋
 
 ## About Me
