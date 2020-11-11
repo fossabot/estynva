@@ -1,5 +1,4 @@
-[!Cole] (https://cldup.com/dTxpPi9lDf.thumb.png)]
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Hi there, my name is Cole/webdelis! 👋
 
 ## About Me
