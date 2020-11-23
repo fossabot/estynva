@@ -1,4 +1,6 @@
 # 👋 howdy
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Festynva%2Festynva.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Festynva%2Festynva?ref=badge_shield)
+
 my name is cole and i code stuff for a hobby, hoping to be a web developer in my future :)
 
 ## 📖 about me
@@ -21,3 +23,7 @@ i would likely respond quicker over discord but anything would probably work. bu
 - C+
 
 #### For more information, visit [coleh.xyz](https://coleh.xyz)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Festynva%2Festynva.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Festynva%2Festynva?ref=badge_large)
